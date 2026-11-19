@@ -47,10 +47,11 @@ Inside the Agents Tab we can create new agents (since we currently have no "real
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>Next we will configure SLA (most will already be set up with inhouse rules for tickets) here is an example of a Sev-A most important
+<img src="https://github.com/sparkman787/post-install-config/blob/main/step7.PNG"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The last thing we need to set up is Help Topics, (when users create a ticket) to help categorize. It should be under Admin panel => Manage => Help Topics. By doing this it makes it easier for users to define issues outside of SLA defining.
+  <img src="https://github.com/sparkman787/post-install-config/blob/main/step8.PNG"/>
 </p>
 <br />
